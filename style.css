@@ -1,0 +1,35 @@
+#schetch_to_be_drawn {
+    color: red;
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+#confidence{
+    font-family: Roboto;
+    font-weight: 900;   
+    font-size: 20px;
+}
+
+#your_schetch{
+    font-family: Roboto;
+    font-weight: 900;   
+    font-size: 20px;
+}
+
+#timer{
+    font-family: Roboto;
+    font-weight: 900;   
+    font-size: 25px;
+    margin-left: 1150px;
+    margin-bottom: 200px;
+}
+
+#score{
+    font-family: Roboto;
+    font-weight: 900;   
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 200px;
+    float: right;
+}
